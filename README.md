@@ -7,5 +7,4 @@
 中间环节：商家（店播占比近七成）承担技术服务费+达人佣金+广告费；达人通过精选联盟带货，确认收货15天后结算佣金；体验分/口碑分是流量与结算的调节阀[5][10][14][15]。
 边界：货架场景增速放缓（+140%→+49%）、虚假宣传治理压力大、内容与交易的张力、复购率低于传统电商——"货找人"模式有其增长极限[1][2]。
 
-**详细报告**
-[抖音电商业务运作底层逻辑与全流程细节](https://pingyuwu.github.io/The-underlying-logic-and-full-process-details-of-Douyin-s-e-commerce-business-operations/)
+**详细报告**[抖音电商业务运作底层逻辑与全流程细节](https://pingyuwu.github.io/The-underlying-logic-and-full-process-details-of-Douyin-s-e-commerce-business-operations/)
